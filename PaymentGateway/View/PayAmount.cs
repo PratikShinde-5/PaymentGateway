@@ -103,7 +103,7 @@ namespace PaymentGateway
 
                 var result = db.GetBankData(accnum, Ifsc);
 
-                //Check
+             //hiii iam here
 
             }
 
