@@ -103,6 +103,8 @@ namespace PaymentGateway
 
                 var result = db.GetBankData(accnum, Ifsc);
 
+                //Check
+
             }
 
           bool flag=  db.ConfirmOT(number, otp);
